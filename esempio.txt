@@ -1,0 +1,79 @@
+node_F(1).
+node_F(2).
+node_F(3).
+node_F(4).
+node_F(5).
+node_F(6).
+node_F(7).
+node_F(8).
+node_F(9).
+node_F(10).
+node_F(11).
+node_F(13).
+node_F(14).
+node_F(15).
+node_F(16).
+node_F(17).
+node_F(18).
+node_F(19).
+edge_F(14, 7).
+edge_F(5, 4).
+edge_F(9, 2).
+edge_F(14, 10).
+edge_F(11, 2).
+edge_F(8, 18).
+edge_F(8, 15).
+edge_F(10, 18).
+edge_F(13, 14).
+edge_F(15, 8).
+edge_F(6, 11).
+edge_F(18, 19).
+edge_F(16, 8).
+edge_F(3, 3).
+edge_F(9, 7).
+edge_F(17, 14).
+edge_F(9, 16).
+edge_F(2, 4).
+edge_F(10, 11).
+edge_F(9, 13).
+edge_F(13, 7).
+edge_F(2, 10).
+edge_F(15, 1).
+edge_F(13, 13).
+edge_F(16, 15).
+edge_F(4, 7).
+edge_F(17, 7).
+edge_F(19, 4).
+edge_F(4, 13).
+edge_F(14, 17).
+edge_F(9, 9).
+edge_F(11, 3).
+edge_F(17, 19).
+edge_F(2, 9).
+edge_F(11, 15).
+edge_F(16, 5).
+edge_F(15, 9).
+edge_F(2, 15).
+edge_F(15, 15).
+node_G(1).
+node_G(2).
+node_G(3).
+node_G(4).
+node_G(5).
+node_G(6).
+node_G(7).
+node_G(8).
+node_G(9).
+edge_G(8, 8).
+edge_G(6, 2).
+edge_G(1, 2).
+edge_G(3, 8).
+edge_G(7, 1).
+edge_G(2, 7).
+edge_G(9, 3).
+edge_G(4, 3).
+edge_G(4, 5).
+edge_G(8, 6).
+edge_G(4, 8).
+edge_G(9, 7).
+edge_G(7, 8).
