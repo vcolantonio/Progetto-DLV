@@ -1,5 +1,5 @@
 # Progetto-DLV
-Progetto realizzato per il corso di Intelligenza Artificiale
+Progetto realizzato in gruppo per il corso di Intelligenza Artificiale
 
 ---
 Realizzare un programma DLV che risolva il seguente problema: 
